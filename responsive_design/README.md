@@ -1,22 +1,10 @@
-Responsive design
-
-Resources
-Read or watch:
-
-The building blocks of responsive design - Progressive web apps | MDN
-A pragmatic guide to designing and building responsive web applications | developerlife.com
-Understanding the difference between mobile-first, adaptive and responsive design
-LukeW | Mobile First
-Media Queries | A collection of inspirational websites using media queries and responsive web design
-Responsive Design Newsletter
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-Mobile-first design
-Media-queries
-Sizes to use for responsive web design
-How to make a website responsive
-The differences between responsive and adaptive design
-CSS units that are used to make elements flexible
-Requirements
-Allowed editors: vi, vim, emacs
+- The page provides a clear command palette for searching different types of content.
+- It offers various tips and shortcuts for searching and filtering content.
+- An error occurred and some results are not available at the moment.
+- The page displays a list of files, including HTML and CSS files.
+- There are links to documentation and a feedback forum.
+- The main topic of the page is responsive design.
+- It provides resources for learning about responsive design and its key concepts.
+- The learning objectives of the project include understanding mobile-first design, media queries, and flexible CSS units.
+- The page also mentions the differences between responsive and adaptive design.
+- The allowed editors for this project are vi, vim, and emacs.
